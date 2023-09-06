@@ -7,5 +7,5 @@
 
 https://tamirp123.github.io/UofM-Module-1-Challenge/
 
-https://github.com/TamirP123/UofM-Module-1-Challenge/commits/main
+https://github.com/TamirP123/UofM-Module-1-Challenge
 
