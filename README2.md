@@ -9,3 +9,8 @@ https://tamirp123.github.io/UofM-Module-1-Challenge/
 
 https://github.com/TamirP123/UofM-Module-1-Challenge
 
+### Photos of app
+
+![Image one](image.png)
+![Image two](image-1.png)
+![Image three](image-2.png)
